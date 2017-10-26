@@ -1,9 +1,8 @@
-# How-to-Deploy-a-Tensorflow-Model-in-Production
-This is the code for the "How to Deploy a Tensorflow Model in Production" by Siraj Raval on YouTube
+# Tensorflow serving Setup
+This is the code for the Deploy a Tensorflow Model in Production.
 
 ## Overview
-
-This is the code for [this](https://youtu.be/T_afaArR0E8) video on Youtube by Siraj Raval. We're going to use the [Tensorflow Serving](https://tensorflow.github.io/serving/) library to deploy an inception model in production. 
+We're going to use the [Tensorflow Serving](https://tensorflow.github.io/serving/) library to deploy an inception model in production. 
 
 ## Dependencies
 
