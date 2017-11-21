@@ -1,5 +1,5 @@
 # Tensorflow serving Setup
-This is the code for the Deploy a Tensorflow Model in Production.
+This is the code to Deploy a Tensorflow Model in Production.
 
 ## Overview
 We're going to use the [Tensorflow Serving](https://tensorflow.github.io/serving/) library to deploy an inception model in production. 
